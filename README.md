@@ -15,7 +15,7 @@ To run the example locally:
 ### 1. Clone Repository
 
 ```shell
-git clone git@github.com:typedoc2md/typedoc-plugin-markdown-examples.git
+git clone https://github.com/typedoc2md/docusaurus-plugin-typedoc-example.git
 cd docusaurus-plugin-typedoc-example
 git submodule update --init --recursive
 ```
